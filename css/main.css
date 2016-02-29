@@ -11,3 +11,47 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+div a {
+  text-decoration: none;
+}
+
+.btn {
+
+}
+
+.btn:hover {
+
+}
+
+.btn-small {
+
+}
+
+.btn-big {
+
+}
+
+.btn-subtle {
+
+}
+
+.btn-subtle:hover {
+
+}
+
+.btn-ghost {
+
+}
+
+.btn-ghost:hover {
+
+}
+
+.btn-warning {
+
+}
+
+.btn-warning:hover {
+
+}
